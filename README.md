@@ -12,7 +12,7 @@ For your submission, please submit the following:
   1. [OK] Job failed because of compile errors. [SCREENSHOT01]
   1. [OK] Job that failed because of vulnerable packages. [SCREENSHOT03]
   1. [OK] An alert from one of your failed builds. [SCREENSHOT04]
-  1. Appropriate job failure for infrastructure creation. [SCREENSHOT05]
+  1. [OK] Appropriate job failure for infrastructure creation. [SCREENSHOT05]
   1. Appropriate job failure for the smoke test job. [SCREENSHOT06]
   1. Successful rollback after a failed smoke test. [SCREENSHOT07]  
   1. Successful promotion job. [SCREENSHOT08]
